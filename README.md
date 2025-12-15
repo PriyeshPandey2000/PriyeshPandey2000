@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on production grade MERN PROJECT.
+ 🔭 I’m currently building better WisprFlow Noteflux - https://noteflux.app/.
  
 
 
