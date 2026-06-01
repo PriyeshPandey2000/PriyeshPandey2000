@@ -12,7 +12,7 @@
  
   I’m currently building better WisprFlow Noteflux - https://noteflux.app/.
 
-  Bank Statement Parser (Indian Banks , pdf-> csv) - https://github.com/PriyeshPandey2000/indian-bank-statement-parser
+  [Bank Statement Parser](https://github.com/PriyeshPandey2000/indian-bank-statement-parser) (Indian Banks, PDF → CSV)
  
 
 
