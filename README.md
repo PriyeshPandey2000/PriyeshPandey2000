@@ -27,11 +27,7 @@
 **Member of Technical Staff — Sphota** *(2024 – Present · Bangalore)*
 > Architected a distributed SERP scraping platform end-to-end — Puppeteer with anti-detection (rotating proxies, browser fingerprint spoofing), job queue with NestJS + BullMQ/Redis, microservices on GKE with horizontal autoscaling, and a full-stack Remix dashboard with real-time status tracking.
 
-**Full Stack Developer — Gammaprep** *(Mar 2024 – May 2024 · Remote)*
-> Built production website from scratch with Next.js + MongoDB; integrated PhonePe payment gateway for course purchases.
 
-**SDE Intern — DesiQnA** *(Apr 2023 – Sept 2023 · Mumbai)*
-> Frontend development + bot detection engineering; integrated reCAPTCHA for spam prevention.
 
 <hr/>
 
