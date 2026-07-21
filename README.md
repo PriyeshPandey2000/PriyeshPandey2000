@@ -43,15 +43,17 @@
 
 ## ⚒️ Tech Stack
 
+**Backend & Databases**
+<div>
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,prisma,mysql,mongodb,firebase,redis,supabase,remix" />
+</div>
+
 **Frontend**
 <div>
   <img src="https://skillicons.dev/icons?i=react,nextjs,svelte,typescript,javascript,html,css,tailwind,mui,figma" />
 </div>
 
-**Backend & Databases**
-<div>
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,prisma,mysql,mongodb,firebase,redis,supabase" />
-</div>
+
 
 **DevOps & Tools**
 <div>
