@@ -37,7 +37,7 @@
 |---|---|---|
 | [**Noteflux**](https://noteflux.app) | Voice to text in any app — local (Whisper) + cloud models, global hotkeys, LLM post-processing pipeline | Tauri · Rust · Svelte · TypeScript |
 | [**Indian Bank Statement Parser**](https://github.com/PriyeshPandey2000/indian-bank-statement-parser) | PDF → CSV for Indian bank statements | TypeScript |
-| [**AI Video Clipper**](https://github.com/PriyeshPandey2000/ai-video-clipper) | Open-source OpusClip alternative — viral shorts from long videos, runs fully local | TypeScript |
+| [**AI Video Clipper**](https://github.com/PriyeshPandey2000/ai-video-clipper) | Open-source OpusClip alternative — viral shorts from long videos, BYOK | TypeScript |
 
 <hr/>
 
@@ -55,14 +55,9 @@
 
 **DevOps & Tools**
 <div>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,gcp,git,github,vscode,rust" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,gcp,git,github,vscode" />
 </div>
 
 <hr/>
 
-## 📊 Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PriyeshPandey2000&count_private=true&show_icons=true&theme=react&border_radius=10" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriyeshPandey2000&hide=HTML&langs_count=6&layout=compact&theme=react&border_radius=10" />
-</div>
